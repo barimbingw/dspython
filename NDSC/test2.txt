@@ -1,0 +1,6 @@
+Opsi,Potential impact,Workload: technical,Workload: non-technical,Workload: monitoring,Data requirement,Relevance to stakeholders needs,Sustainability
+A,Besar,Sedang,Sedang,Sedang,Besar,Sedang,Besar
+B,Sedang,Sedang,Besar,Sedang,Sedang,Kecil,Kecil
+C,Besar,Kecil,Besar,Sedang,Besar,Sedang,Sedang
+D,Kecil,Besar,Sedang,Kecil,Besar,Besar,Kecil
+E,Sedang,Besar,Kecil,Sedang,Kecil,Sedang,Sedang
